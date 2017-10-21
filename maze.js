@@ -1,9 +1,9 @@
 
-function changecolor () {
+/*function changecolor () {
 	 document.getElementById("div").backgroundColor = "red"
 	    
     }
-	document.getElementById("div").onmouseover = changecolor()
+	document.getElementById("div").onmouseover = changecolor()*/
 
   
 

@@ -1,8 +1,3 @@
-/*
-original lab idea and code by Kevin Wallace and Jeff Prouty; revised by Brian Le, Victoria Kirst, and Marty Stepp
-http://www.webstepbook.com/
-You don't need to download or edit this file.
-*/
 
 h1, h2 {
 	text-align: center;
@@ -61,10 +56,7 @@ div.youlose {
    border-color: red;
    background-color: red;
 }
-/*
-Hack hack hack; these are CSS "sibling selectors" for selecting
-neighboring elements.  Necessary to avoid giving ids to the boundary divs
-*/
+
 
 #maze div.boundary {
 	position: absolute;
